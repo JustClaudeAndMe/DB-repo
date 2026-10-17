@@ -1,7 +1,26 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-17T08:09:12.578Z",
+  "updatedAt": "2026-10-17T08:12:47.301Z",
   "wallpapers": [
+    {
+      "cat": "space",
+      "contentHash": null,
+      "createdAt": 1792147385402,
+      "desc": "",
+      "downloadCount": 0,
+      "id": "d2",
+      "isDefault": true,
+      "isFeatured": false,
+      "publishAt": null,
+      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1400&q=85",
+      "status": "published",
+      "storedIn": null,
+      "tag": "Space",
+      "thumb": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=800&q=80",
+      "title": "Galaxy",
+      "uploaderId": null,
+      "uploaderName": null
+    },
     {
       "cat": "nature",
       "contentHash": null,
@@ -155,25 +174,6 @@
       "uploaderName": null
     },
     {
-      "cat": "space",
-      "contentHash": null,
-      "createdAt": 1792147385402,
-      "desc": "",
-      "downloadCount": 0,
-      "id": "d2",
-      "isDefault": true,
-      "isFeatured": false,
-      "publishAt": null,
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1400&q=85",
-      "status": "published",
-      "storedIn": null,
-      "tag": "Space",
-      "thumb": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=800&q=80",
-      "title": "Galaxy",
-      "uploaderId": null,
-      "uploaderName": null
-    },
-    {
       "cat": "superhero",
       "contentHash": "ba3af201277fb6411fb2f8590b82d96c869fd95116baed6f842a8ba4f17f2c7f",
       "createdAt": 1792082938745,
@@ -197,7 +197,7 @@
       "contentHash": "c0329e9383497581f71e343cb54cc40d348d6413d57a914b0854fc3807459e57",
       "createdAt": 1792082917441,
       "desc": "Black Panther suit in stunning detail with vibranium purple glow accents against a rich magenta gradient background, powerful and heroic mood.",
-      "downloadCount": 0,
+      "downloadCount": 1,
       "id": "w_8Y_CW2-JDJTu3Em1",
       "isDefault": false,
       "isFeatured": false,
@@ -675,7 +675,10 @@
       "createdAt": 1792224514284,
       "email": "atinjay.phone@gmail.com",
       "favs": [
-        "w_iGcEph0EcjTwKmQm"
+        "w_iGcEph0EcjTwKmQm",
+        "w_8Y_CW2-JDJTu3Em1",
+        "w_YcSwFE_RcysZqjhl",
+        "w_nuq_kVAHLejOBFg9"
       ],
       "fname": "atinjay",
       "hasPassword": false,
