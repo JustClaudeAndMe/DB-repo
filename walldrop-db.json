@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-20T02:51:04.675Z",
+  "updatedAt": "2026-10-20T02:52:09.725Z",
   "wallpapers": [
     {
       "cat": "anime",
@@ -635,7 +635,7 @@
       "device": "desktop"
     },
     {
-      "cat": "cars",
+      "cat": "",
       "contentHash": "7679c3fbfa3bc4f1524cf13b0f25b5dd92b3cb87a7506ef111e53739f8a0b4a6",
       "createdAt": 1792082548034,
       "desc": "Striking yellow and black Cadillac Formula 1 race car concept render with bold sponsor livery against a clean white minimalist background.",
@@ -651,10 +651,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792082540016-52f6b780.jpg",
       "title": "Cadillac F1 Concept",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "comics",
+      "cat": "",
       "contentHash": "2a3e9300cfd92043b19a187d754e1c777fe2081b51daa6be9a7baeabe2220b62",
       "createdAt": 1792082530008,
       "desc": "Vibrant red and black Spider-Man suit pops against a monochrome collage of classic Marvel comic book covers creating nostalgic heroic energy.",
@@ -670,10 +671,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792082517434-33461774.jpg",
       "title": "Web Slinger Legacy",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "dark",
+      "cat": "",
       "contentHash": "eb60260ef32b3d855654426055289d1908a95a56d4f91d867140c4e5b8fd252f",
       "createdAt": 1792056974008,
       "desc": "A mysterious figure with white hair and glowing halo emerges from darkness, featuring purple and white tones with an otherworldly ethereal mood.",
@@ -689,10 +691,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792056965901-c1371c55.jpg",
       "title": "Ethereal Digital Angel",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "31024cef0be7cf24647080b221d43898184cfbbe95d3a31ea44fb5ff9d2f4ac3",
       "createdAt": 1792056958388,
       "desc": "Striking anime girl with black hair and piercing red eyes against a bold crimson background, featuring gothic lace accessories and a red rose.",
@@ -708,10 +711,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792056948315-e77756b5.jpg",
       "title": "Gothic Rose Maiden",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "superhero",
+      "cat": "",
       "contentHash": "361c103b9aed109b77f6698debb24c05fc1738adb467b790a4cc50023e5c9c3d",
       "createdAt": 1792056939720,
       "desc": "Bold red and blue illustration of Spider-Man with intricate line work, vintage poster style with dramatic heroic mood and textured details.",
@@ -727,10 +731,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792056928610-cd765d6e.jpg",
       "title": "Web Slinger Portrait",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "998d4f14066b58876b1e4c3e587a3f81204f43313291802884fa455f4f90f7af",
       "createdAt": 1792056918626,
       "desc": "A stylish anime girl with silver hair stands confidently against a vibrant graffiti wall, blending urban edge with soft aesthetic tones.",
@@ -746,10 +751,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792056910800-7003ea59.jpg",
       "title": "Urban Graffiti Girl",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "1c471a4f66b296fa94cfaf7ec783ae06b1162edeeb435d556e07d9ff3cb23513",
       "createdAt": 1792056902607,
       "desc": "Close-up anime portrait featuring a character with striking glowing cyan eyes, silver-blue hair, and a mysterious melancholic mood in cool tones.",
@@ -765,7 +771,8 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792056894724-e8e2ae64.jpg",
       "title": "Luminous Azure Gaze",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
       "cat": "anime",
