@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-20T02:54:42.697Z",
+  "updatedAt": "2026-10-20T02:55:53.901Z",
   "wallpapers": [
     {
       "cat": "",
@@ -23,7 +23,7 @@
       "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "b61e00c8d1ddf85c4edc3121eb7ea86a5ea86ab53f002b737a581f270b27b941",
       "createdAt": 1792316182754,
       "desc": "Anime figure of Zenitsu from Demon Slayer surrounded by vibrant orange wildflowers against a dreamy blue sky with soft bokeh effects.",
@@ -39,10 +39,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792316173494-0f305272.jpg",
       "title": "Zenitsu Golden Meadow",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "0e45a3fedee78ec1630f5445411c3fbd8cafc7c21c627c0516e93793e02a704c",
       "createdAt": 1792316164551,
       "desc": "White-haired anime character with round sunglasses reflecting trees, surrounded by golden autumn leaves in warm, dreamy sunlight with a serene mood.",
@@ -58,10 +59,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792316154226-2337aa0d.jpg",
       "title": "Autumn Gaze Reflection",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "cars",
+      "cat": "",
       "contentHash": "234dd5f31817b269fcf2cf0c7e9d196abfb1328d85eed53db8000d6a7b024e1b",
       "createdAt": 1792316146225,
       "desc": "A sleek black BMW sports car with elegant golden cherry blossom livery parked in vibrant yellow tulip fields under bright blue skies.",
@@ -77,10 +79,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792316137975-4886c89a.jpg",
       "title": "Golden Blossom BMW",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "gaming",
+      "cat": "",
       "contentHash": "44a0e96b9ecd1c0eb6c5cb8bef7c35e1920121f89e3fa53fa2c06cc09c5d3ecd",
       "createdAt": 1792316129962,
       "desc": "A lone samurai in a straw hat gazes across calm waters beneath a dramatic crimson and orange sunset sky with scattered clouds.",
@@ -96,7 +99,8 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792316122910-e33d74fa.jpg",
       "title": "Samurai Sunset Journey",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
       "cat": "",
@@ -299,7 +303,7 @@
       "device": "desktop"
     },
     {
-      "cat": "samurai",
+      "cat": "",
       "contentHash": "7935bac0009e34777ae83f6a2577db80e77182718e2e220347862330b0922931",
       "createdAt": 1792312476044,
       "desc": "A lone samurai silhouette stands among red spider lilies against a massive orange sun, evoking peaceful solitude and Japanese aesthetic beauty.",
@@ -315,7 +319,8 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792312466398-43bf3584.jpg",
       "title": "Crimson Sunset Warrior",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
       "cat": "",
