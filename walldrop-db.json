@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-20T02:47:43.572Z",
+  "updatedAt": "2026-10-20T02:48:50.511Z",
   "wallpapers": [
     {
       "cat": "anime",
@@ -236,7 +236,7 @@
       "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "370575a90f236865fc0789a516bff673ca3182e5cde8e37263b1aa3ae476a780",
       "createdAt": 1792312561902,
       "desc": "A mysterious anime girl holds a gleaming katana in dramatic black and white tones, exuding dark elegance and deadly intensity.",
@@ -252,10 +252,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792312554710-bf8da47f.jpg",
       "title": "Silent Blade Warrior",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "859858410f5f197121cb6869d2e8d8840212c83f5027e103799e0503de617194",
       "createdAt": 1792312547837,
       "desc": "Miles Morales and Spider-Gwen strike cool poses against a vibrant red background in stylized digital art with bold contrasts.",
@@ -271,10 +272,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792312530344-8237ad69.jpg",
       "title": "Spider-Verse Duo",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "sports",
+      "cat": "",
       "contentHash": "f85b40cf4f706e2d9d457b1eba36e5917bf8ee3c3f5a4eab3e86db7f0a722791",
       "createdAt": 1792312518060,
       "desc": "Iconic football celebration in vibrant red Manchester United jersey against dramatic dark background with bold white typography overlay.",
@@ -290,10 +292,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792312503402-128f6349.jpg",
       "title": "Red Devil Glory",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "55cc3ebf1e60b6388b4e2930a6cbb58c7596a2e658b4236afa34ff958df1a4d3",
       "createdAt": 1792312495995,
       "desc": "Vibrant red and blue animated Spider-Man with spider-sense lines against a soft pastel cityscape, playful and dynamic superhero mood.",
@@ -309,7 +312,8 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792312486668-2c4b1585.jpg",
       "title": "Spidey Sense Tingling",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
       "cat": "samurai",
@@ -369,7 +373,7 @@
       "uploaderName": null
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "4271ea42de147805cc8df031c9b9fb3dc91488f1a87dc3241707c88b9adf4216",
       "createdAt": 1792311699423,
       "desc": "Vibrant green anime portrait featuring a dark-haired character with reflective eyes showing creative software icons, evoking digital artistry and inspiration.",
@@ -385,7 +389,8 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792311691319-b34048bc.jpg",
       "title": "Creative Genius Vision",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
       "cat": "dark",
