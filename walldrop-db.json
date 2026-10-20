@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-20T02:53:30.756Z",
+  "updatedAt": "2026-10-20T02:54:42.697Z",
   "wallpapers": [
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "e7850b148fb76a990c1eea5b321981250ae94b2170957f9aef61d9244d11743c",
       "createdAt": 1792316207825,
       "desc": "Dynamic One Piece artwork featuring Monkey D. Luffy in intense action pose with bold red, white, and orange splatter effects conveying fierce energy.",
@@ -19,7 +19,8 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792316194033-86d246ef.jpg",
       "title": "Luffy Battle Stance",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
       "cat": "anime",
@@ -158,26 +159,7 @@
       "device": "desktop"
     },
     {
-      "cat": "city",
-      "contentHash": null,
-      "createdAt": 1792316039613,
-      "desc": "",
-      "downloadCount": 0,
-      "id": "d5",
-      "isDefault": true,
-      "isFeatured": false,
-      "publishAt": null,
-      "src": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1400&q=85",
-      "status": "published",
-      "storedIn": null,
-      "tag": "City",
-      "thumb": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=800&q=80",
-      "title": "City Skyline",
-      "uploaderId": null,
-      "uploaderName": null
-    },
-    {
-      "cat": "superhero",
+      "cat": "",
       "contentHash": "7b8a262553106e8896d4dabec601764440cf6d95b344eae76aef9e43dae04082",
       "createdAt": 1792312704541,
       "desc": "Bold red and black Spider-Man figure with arms crossed against a dark comic-style background, exuding heroic confidence and power.",
@@ -193,7 +175,8 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792312701452-7b091751.jpg",
       "title": "Web Warrior Stance",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
       "cat": "",
@@ -915,7 +898,7 @@
       "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "516a0a457574ebba37e0eb36ff288c383bbb126a3839bac96d1dfe25e382a93e",
       "createdAt": 1792056759214,
       "desc": "Silver-haired anime girl with pink bunny ears against a chaotic newspaper clipping background, featuring soft pink and muted tones with playful aesthetic vibes.",
@@ -931,10 +914,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792056750682-5d898cff.jpg",
       "title": "Bunny Girl Collage",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "e5ca0e1f1f33728ba8aec0e3e8b0c683cc71ade31a8bf161b8c7dc5efa7e5b0a",
       "createdAt": 1792056742479,
       "desc": "Rem from Re:Zero gazes softly against a stylized newspaper collage background, blending vibrant sky blue tones with monochrome print aesthetics.",
@@ -950,7 +934,8 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792056726395-12e171c5.jpg",
       "title": "Azure Newsprint Rem",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     }
   ],
   "users": [
