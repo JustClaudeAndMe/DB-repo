@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-20T02:52:09.725Z",
+  "updatedAt": "2026-10-20T02:53:30.756Z",
   "wallpapers": [
     {
       "cat": "anime",
@@ -775,7 +775,7 @@
       "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "83cfe11ea439ef2ed7cd16af6e39091b0af193b77237cde99f5415da22fd7ffd",
       "createdAt": 1792056887093,
       "desc": "A striking monochrome anime girl with captivating purple eyes and flowing dark hair exudes gothic elegance and mysterious charm.",
@@ -791,10 +791,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792056878269-0958c9b9.jpg",
       "title": "Gothic Violet Gaze",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "sports",
+      "cat": "",
       "contentHash": "5964b1573b05c13dc6a7fe5ff57a37942c288b741a8094a25ffc2d2ba4086277",
       "createdAt": 1792056869212,
       "desc": "A triumphant Formula 1 driver in Red Bull racing suit raises fist against cloudy blue sky with bold motivational text overlay.",
@@ -810,10 +811,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792056859643-26f84b6b.jpg",
       "title": "Victory Fist Triumph",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "sports",
+      "cat": "",
       "contentHash": "97bc7b55b53c28f8e3d004a471d286193df13532fe45f545e2d3d0c67e3a3366",
       "createdAt": 1792056851014,
       "desc": "Bold red and black illustration featuring a Formula 1 driver standing before a Red Bull racing car with intense grunge typography background.",
@@ -829,10 +831,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792056838979-8d87ce6b.jpg",
       "title": "Red Bull Racing Star",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "2c194d5e7acac39d616e260f79aadaba6b05ab867833e656788bc9ef1d9abf06",
       "createdAt": 1792056828898,
       "desc": "Stylish anime girl with pixel sunglasses and cyan glowing accents against a dark background, exuding cool cyberpunk vibes and attitude.",
@@ -848,10 +851,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792056821310-5846b156.jpg",
       "title": "Neon Cyber Miku",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "de1977ba51ecad1801766df3423abecad13d5d69cc145188dd096aa7b6ce61ca",
       "createdAt": 1792056813772,
       "desc": "A white-haired anime girl with striking red eyes frames her face with her hands, featuring soft pink tones and a playful gothic aesthetic.",
@@ -867,10 +871,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792056804058-a92e71e7.jpg",
       "title": "Crimson Gaze Frame",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "9c578f53a12f4e4501ece49d8d28720881c4628849bb66cfe24e08952865bec6",
       "createdAt": 1792056795478,
       "desc": "A beautiful anime girl with flowing silver braided hair and violet eyes stands against a collage of newspaper clippings in cool gray tones.",
@@ -886,10 +891,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792056786183-323340b9.jpg",
       "title": "Silver Haired Dreamer",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "f4760b2121fb980056df4c5fbd26003688b04f78ba6ef3e6e089a5e948f72804",
       "createdAt": 1792056776186,
       "desc": "Anime swordsman with piercing cyan eyes draws katana against dramatic orange sunset sky, evoking intense determination and battle-ready mood.",
@@ -905,7 +911,8 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792056767707-ecde9915.jpg",
       "title": "Sunset Blade Warrior",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
       "cat": "anime",
