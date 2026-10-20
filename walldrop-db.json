@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-20T02:48:50.511Z",
+  "updatedAt": "2026-10-20T02:50:02.339Z",
   "wallpapers": [
     {
       "cat": "anime",
@@ -335,7 +335,7 @@
       "uploaderName": null
     },
     {
-      "cat": "superhero",
+      "cat": "",
       "contentHash": "08bd854fe6e28068026673846cbb20d8823b7e2be26f61663b4896bfd4523e18",
       "createdAt": 1792312457844,
       "desc": "Bold red and black Deadpool character lounging casually against pure black background, playful mood with iconic mask and katanas.",
@@ -351,10 +351,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792312451145-d6f37dd3.jpg",
       "title": "Deadpool Relaxed Pose",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "cars",
+      "cat": "",
       "contentHash": "6464f4d4393ef725809cb24b67c2666467ed045d4e217246f44388e6c3dade84",
       "createdAt": 1792312443433,
       "desc": "A sleek black racing car with neon green and red accents speeds through a blurred track, evoking intense motion and adrenaline.",
@@ -370,7 +371,8 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792312435479-a612adc0.jpg",
       "title": "Neon Speed Demon",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
       "cat": "",
@@ -393,7 +395,7 @@
       "device": "desktop"
     },
     {
-      "cat": "dark",
+      "cat": "",
       "contentHash": "39ba1f698bda7928498161aa6cc6233e934190727a1405f8ffcab538c298fe80",
       "createdAt": 1792311668307,
       "desc": "Bold red and black Batman artwork featuring the iconic hero with flowing cape, creating an intense and dramatic superhero aesthetic.",
@@ -409,10 +411,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792311660807-b3319203.jpg",
       "title": "Crimson Dark Knight",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "84ee74e6ba71529d78382be2a77a4b626d2373acda1077bb4b9abd52bb35a70d",
       "createdAt": 1792311653754,
       "desc": "Monochromatic anime illustration of a female samurai wielding a katana, dramatic lighting creates intense contrast and powerful mood.",
@@ -428,10 +431,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792311646826-f59e937e.jpg",
       "title": "Silent Blade Strike",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "cars",
+      "cat": "",
       "contentHash": "88c27daee9ba81a51c8fefe6efe0e4e6710f3756956dceba47b27cc7d3412eec",
       "createdAt": 1792311639754,
       "desc": "Bold yellow and black illustrated Porsche GT3 RS sports car with carbon fiber details, exuding aggressive energy and modern automotive style.",
@@ -447,10 +451,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792311630336-2aacf5f9.jpg",
       "title": "GT3 RS Vector Art",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "cars",
+      "cat": "",
       "contentHash": "1f04444ac99218bc8b9f6fac915b53e177f3e293cb3dee194d55a2941204c35d",
       "createdAt": 1792311622137,
       "desc": "A sleek white McLaren P1 rests in a pristine snowy landscape with wind turbines, mountains, and soft blue winter skies creating a serene contrast.",
@@ -466,10 +471,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792311614646-da8d41a7.jpg",
       "title": "Arctic Supercar Dreams",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "superhero",
+      "cat": "",
       "contentHash": "ba3af201277fb6411fb2f8590b82d96c869fd95116baed6f842a8ba4f17f2c7f",
       "createdAt": 1792082938745,
       "desc": "Dynamic Spider-Man artwork featuring glowing cyan eyes and electric energy beams against deep red and navy blue tones with intense heroic mood.",
@@ -485,7 +491,8 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792082928694-7b7a32db.jpg",
       "title": "Spider-Verse Energy Clash",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
       "cat": "superhero",
