@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-19T15:39:01.281Z",
+  "updatedAt": "2026-10-20T02:46:35.753Z",
   "wallpapers": [
     {
       "cat": "anime",
@@ -151,25 +151,6 @@
       "tag": "Rainy Night Vigilance",
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792316077032-34bcea37.jpg",
       "title": "Rainy Night Vigilance",
-      "uploaderId": null,
-      "uploaderName": null
-    },
-    {
-      "cat": "nature",
-      "contentHash": null,
-      "createdAt": 1792316039613,
-      "desc": "",
-      "downloadCount": 0,
-      "id": "d1",
-      "isDefault": true,
-      "isFeatured": false,
-      "publishAt": null,
-      "src": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=1400&q=85",
-      "status": "published",
-      "storedIn": null,
-      "tag": "Nature",
-      "thumb": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=800&q=80",
-      "title": "Forest Light",
       "uploaderId": null,
       "uploaderName": null
     },
