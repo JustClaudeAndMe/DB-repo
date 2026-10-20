@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-20T02:55:53.901Z",
+  "updatedAt": "2026-10-20T03:05:16.577Z",
   "wallpapers": [
     {
       "cat": "",
@@ -954,20 +954,6 @@
       "lname": "Pro",
       "picture": "",
       "provider": "email"
-    },
-    {
-      "bio": "",
-      "createdAt": 1788778664087,
-      "email": "aprammishra3@gmail.com",
-      "favs": [],
-      "fname": "Apram",
-      "hasPassword": false,
-      "id": "g_112539282900980420867",
-      "isCreator": false,
-      "lname": "Mishra",
-      "picture": "https://lh3.googleusercontent.com/a/ACg8ocL1tSjvAzJxlD4mbiZjtntsBU4wdnlWTX3MWvWKFoRBJkAhFyQ=s96-c",
-      "provider": "google",
-      "username": ""
     },
     {
       "bio": "",
