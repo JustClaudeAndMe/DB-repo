@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-20T02:46:35.753Z",
+  "updatedAt": "2026-10-20T02:47:43.572Z",
   "wallpapers": [
     {
       "cat": "anime",
@@ -98,7 +98,7 @@
       "uploaderName": null
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "9d8cb86cb82a6ddfb96efcb6cf305444eea8246bd054de5fe1d9433931e12866",
       "createdAt": 1792316115651,
       "desc": "A dramatic black and white manga-style illustration featuring a warrior wielding a glowing sword with intense light rays piercing the darkness.",
@@ -114,10 +114,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792316108514-b89cec71.jpg",
       "title": "Blade of Light",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "dark",
+      "cat": "",
       "contentHash": "6ad66ac957cbf7d021da38f6763bd88009c88a1f1e0d1e91aa186f2653eaf9d9",
       "createdAt": 1792316101760,
       "desc": "A haunting skeletal figure in tattered robes emerges from darkness with outstretched clawed hands against a swirling monochrome void with floating debris.",
@@ -133,10 +134,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792316095175-0c9a554a.jpg",
       "title": "Cosmic Death Awakens",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "superhero",
+      "cat": "",
       "contentHash": "d7964edaf1a714b69b8558b3656d61ed6faf8ae74e8c9425549fda33b6adff90",
       "createdAt": 1792316087915,
       "desc": "Spider-Man clings to a rain-soaked building in his iconic red suit, with bokeh city lights creating a moody cinematic atmosphere.",
@@ -152,102 +154,8 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792316077032-34bcea37.jpg",
       "title": "Rainy Night Vigilance",
       "uploaderId": null,
-      "uploaderName": null
-    },
-    {
-      "cat": "space",
-      "contentHash": null,
-      "createdAt": 1792316039613,
-      "desc": "",
-      "downloadCount": 0,
-      "id": "d2",
-      "isDefault": true,
-      "isFeatured": false,
-      "publishAt": null,
-      "src": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1400&q=85",
-      "status": "published",
-      "storedIn": null,
-      "tag": "Space",
-      "thumb": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=800&q=80",
-      "title": "Galaxy",
-      "uploaderId": null,
-      "uploaderName": null
-    },
-    {
-      "cat": "city",
-      "contentHash": null,
-      "createdAt": 1792316039613,
-      "desc": "",
-      "downloadCount": 0,
-      "id": "d9",
-      "isDefault": true,
-      "isFeatured": false,
-      "publishAt": null,
-      "src": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1400&q=85",
-      "status": "published",
-      "storedIn": null,
-      "tag": "City",
-      "thumb": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
-      "title": "Architecture",
-      "uploaderId": null,
-      "uploaderName": null
-    },
-    {
-      "cat": "space",
-      "contentHash": null,
-      "createdAt": 1792316039613,
-      "desc": "",
-      "downloadCount": 0,
-      "id": "d8",
-      "isDefault": true,
-      "isFeatured": false,
-      "publishAt": null,
-      "src": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=1400&q=85",
-      "status": "published",
-      "storedIn": null,
-      "tag": "Space",
-      "thumb": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=800&q=80",
-      "title": "Deep Space",
-      "uploaderId": null,
-      "uploaderName": null
-    },
-    {
-      "cat": "minimal",
-      "contentHash": null,
-      "createdAt": 1792316039613,
-      "desc": "",
-      "downloadCount": 0,
-      "id": "d7",
-      "isDefault": true,
-      "isFeatured": false,
-      "publishAt": null,
-      "src": "https://images.unsplash.com/photo-1511300636408-a63a89df3482?w=1400&q=85",
-      "status": "published",
-      "storedIn": null,
-      "tag": "Minimal",
-      "thumb": "https://images.unsplash.com/photo-1511300636408-a63a89df3482?w=800&q=80",
-      "title": "Minimalist",
-      "uploaderId": null,
-      "uploaderName": null
-    },
-    {
-      "cat": "nature",
-      "contentHash": null,
-      "createdAt": 1792316039613,
-      "desc": "",
-      "downloadCount": 0,
-      "id": "d6",
-      "isDefault": true,
-      "isFeatured": false,
-      "publishAt": null,
-      "src": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1400&q=85",
-      "status": "published",
-      "storedIn": null,
-      "tag": "Nature",
-      "thumb": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80",
-      "title": "Snowy Mountains",
-      "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
       "cat": "city",
@@ -288,7 +196,7 @@
       "uploaderName": null
     },
     {
-      "cat": "cars",
+      "cat": "",
       "contentHash": "43d2b183e60db5183f8078516c251701072f90904f27680cc1d741a24b892762",
       "createdAt": 1792312618396,
       "desc": "A stunning white Rolls-Royce emerges from a vibrant sea of red flowers, blending opulence with natural beauty in autumn light.",
@@ -304,10 +212,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792312602763-215dd70b.jpg",
       "title": "Luxury Among Roses",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "c26bb0ec5ed9ec4f66d91e9cb4e359db591eeaa8b4c298417c11e41d002721de",
       "createdAt": 1792312594569,
       "desc": "Vibrant red background showcases a determined panda warrior in conical hat with cyan outlines and handwritten notes creating an artistic concept feel.",
@@ -323,7 +232,8 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792312571592-2dff0287.jpg",
       "title": "Dragon Warrior Sketch",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
       "cat": "anime",
