@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-20T02:50:02.339Z",
+  "updatedAt": "2026-10-20T02:51:04.675Z",
   "wallpapers": [
     {
       "cat": "anime",
@@ -495,7 +495,7 @@
       "device": "desktop"
     },
     {
-      "cat": "superhero",
+      "cat": "",
       "contentHash": "c0329e9383497581f71e343cb54cc40d348d6413d57a914b0854fc3807459e57",
       "createdAt": 1792082917441,
       "desc": "Black Panther suit in stunning detail with vibranium purple glow accents against a rich magenta gradient background, powerful and heroic mood.",
@@ -511,10 +511,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792082823416-9bd049dc.jpg",
       "title": "Wakandan Warrior Descent",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "4ac38b0bfe1396d3ee284030e3d0227715acbb8c2ea88c91040bd7daf35e0c50",
       "createdAt": 1792082805783,
       "desc": "Close-up anime portrait featuring a girl with striking red and blue heterochromatic eyes, silver hair, and a mysterious dark purple mood.",
@@ -530,10 +531,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792082786753-c3d4b294.jpg",
       "title": "Crimson Gaze Intensity",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "3fa3e4851dcffb47ec069236ebdc6e27c063eafe8b460d77d2056880367ccea4",
       "createdAt": 1792082759214,
       "desc": "A gentle anime girl with flowing pink hair and violet eyes smiles softly against a scattered newspaper background in pastel tones.",
@@ -549,10 +551,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792082747580-43e9e763.jpg",
       "title": "Pink Haired Princess",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "e5adcd9cece2f6223cf4b4c95015341a0e44f2ebb59e2ad34d035f6c9ca8246d",
       "createdAt": 1792082739755,
       "desc": "A white-haired demon girl with elegant horns holds a katana, featuring warm golden lighting against a dark moody background with red accents.",
@@ -568,10 +571,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792082618499-0bd7bf08.jpg",
       "title": "Horned Blade Maiden",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "dark",
+      "cat": "",
       "contentHash": "65befc8341c8dde3ab8cc6300d55dab35515fe56589312ba5af4cc09af524d92",
       "createdAt": 1792082605665,
       "desc": "A mysterious bandaged figure wearing a glowing spiked crown against a deep crimson red background, evoking dark fantasy and ominous power.",
@@ -587,10 +591,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792082588345-3530191d.jpg",
       "title": "Crowned in Shadows",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "sports",
+      "cat": "",
       "contentHash": "e41a9c0fd166e91c460a4d26d1f1c54397387e1adf489487ea8638e656e6b7a2",
       "createdAt": 1792082579491,
       "desc": "Dynamic illustration of Cristiano Ronaldo in red Portugal jersey with bold typography, stadium lights creating dramatic golden atmosphere and celebratory mood.",
@@ -606,10 +611,11 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792082571318-cffa2289.jpg",
       "title": "CR7 Stadium Glory",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
-      "cat": "anime",
+      "cat": "",
       "contentHash": "cd097eed9dcba09947b81d99300fea94142b2e51cb1e01eb9c4ac34d81a0b8c6",
       "createdAt": 1792082562976,
       "desc": "A melancholic anime girl with short blonde hair and a black cat perched on her head against a warm peachy sunset gradient background.",
@@ -625,7 +631,8 @@
       "thumb": "https://cdn.jsdelivr.net/gh/apramapra/walldrop@main/wallpapers/1792082556211-a69f5d32.jpg",
       "title": "Feline Companion Dusk",
       "uploaderId": null,
-      "uploaderName": null
+      "uploaderName": null,
+      "device": "desktop"
     },
     {
       "cat": "cars",
